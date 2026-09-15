@@ -41,7 +41,7 @@ export const about = {
   imageAlt: 'Sonal Gholap',
 
   stats: [
-    { value: 'Specialist', label: 'Codeforces rating' },
+    { value: '1400+', label: 'Specialist at Codeforces' },
     { value: '1900+', label: 'LeetCode rating' },
     { value: '1700+', label: 'CodeChef rating' },
   ],
