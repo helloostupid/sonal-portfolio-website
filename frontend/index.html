@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Sonal Gholap — software engineer. A cinematic, editorial portfolio of work, projects and craft." />
+    <meta property="og:title" content="Sonal Gholap" />
+    <meta property="og:description" content="Software engineer building things that make complex things feel simple." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://cinematic-craft-123.preview.emergentagent.com/og-image.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>Sonal Gholap</title>
+    <script>
+      (function () {
+        var t = localStorage.getItem('sg-theme');
+        if (t === 'light') document.documentElement.classList.remove('dark');
+        document.documentElement.style.background = t === 'light' ? '#FBF5F2' : '#0F0A11';
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
