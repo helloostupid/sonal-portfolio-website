@@ -253,7 +253,7 @@ export const education = {
 
   degrees: [
     {
-      fig: 'FIG. 01',
+      fig: 'Graduation',
       degree: 'B.Tech — Computer Science',
       school: 'Sardar Patel Institute of Technology',
       period: '2021 — 2025',
@@ -268,7 +268,7 @@ export const education = {
     },
 
     {
-      fig: 'FIG. 02',
+      fig: 'HSC',
       degree: 'Higher Secondary Certificate',
       school: 'Ramniranjan Jhunjhunwala College',
       period: '2018 — 2020',
@@ -283,7 +283,7 @@ export const education = {
     },
 
     {
-      fig: 'FIG. 03',
+      fig: 'SSC',
       degree: 'Secondary School Certificate',
       school: 'Pune Vidyarthi Griha\'s Vidya Bhavan',
       period: '2008 — 2018',

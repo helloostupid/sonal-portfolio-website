@@ -175,7 +175,7 @@ export function ProjectsGallery() {
       <div className="px-2 sm:px-4 lg:px-6">
         <SectionHeading chapter="03" label="PROJECTS" title="Selected" accent="projects." />
         <p className="-mt-8 mb-14 max-w-md text-sm leading-relaxed text-ink-mute sm:-mt-10">
-          Four builds, chosen for the problems they solve — not the logos on them. Keep scrolling; each one takes the stage.
+          Three builds, chosen for the problems they solve — not the logos on them. Keep scrolling; each one takes the stage.
         </p>
       </div>
 
